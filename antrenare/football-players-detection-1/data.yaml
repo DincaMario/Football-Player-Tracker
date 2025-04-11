@@ -1,0 +1,13 @@
+train: C:/Users/Mario/OneDrive/Desktop/proiect_fotbal/antrenare/football-players-detection-1/football-players-detection-1/train/images
+val: C:/Users/Mario/OneDrive/Desktop/proiect_fotbal/antrenare/football-players-detection-1/football-players-detection-1/valid/images
+test: C:/Users/Mario/OneDrive/Desktop/proiect_fotbal/antrenare/football-players-detection-1/football-players-detection-1/test/images
+
+nc: 4
+names: ["ball", "goalkeeper", "player", "referee"]
+
+roboflow:
+  workspace: roboflow-jvuqo
+  project: football-players-detection-3zvbc
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/roboflow-jvuqo/football-players-detection-3zvbc/dataset/1
