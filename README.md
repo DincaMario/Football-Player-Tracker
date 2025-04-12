@@ -17,7 +17,7 @@ Afterwards, the model was integrated into a Python-based tracker that processes 
 
 ## How it Looks
 
-![Image](https://github.com/user-attachments/assets/bf914b5d-f2cc-4c67-95cc-8a4e3d8c7868)
+![Image](https://i.imgur.com/Mh31A5S.png)
 
 ## Known Issues
 
